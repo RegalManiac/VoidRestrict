@@ -1,0 +1,11 @@
+name: VoidRestrict
+version: 1.0
+main: com.August.voidrestrict.VoidRestrictPlugin
+api-version: '1.21.11'
+folia-supported: true
+authors: [RegalManiac]
+commands:
+  voidrestrict:
+    description: Manage void restrictions
+    aliases: [vr]
+    permission: voidrestrict.admin

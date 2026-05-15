@@ -1,0 +1,10 @@
+# Restriction settings below bedrock level
+settings:
+  prevent-place: true
+  prevent-break: false
+  prevent-attack: true
+
+# Worlds where restrictions are active
+worlds:
+  overworld: false
+  nether: true
